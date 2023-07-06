@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-
-=======
-# code-3-challenge
->>>>>>> e571d52b2a6339dba5cbe7b7ada198122c386474
 ## Code Challenge 3 - Survey
 This website allows to easy purchase of movie ticket according to personal preference
 
